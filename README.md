@@ -1,8 +1,12 @@
-\# Cybersecurity Homelab
+\# CyberLab
 
 
 
-Welcome to my cybersecurity and IT administration homelab.
+Welcome to my IT Administration and Cybersecurity homelab.
+
+
+
+This repository documents the labs, projects, and technologies I have built while learning enterprise networking, system administration, and cybersecurity.
 
 
 
@@ -24,31 +28,45 @@ Welcome to my cybersecurity and IT administration homelab.
 
 \- Kali Linux
 
-\- Docker
-
 \- pfSense
 
-\- Wazuh SIEM
+\- Wazuh
 
-\- Cisco Packet Tracer
+\- Docker
 
 \- PowerShell
 
+\- Wireshark
+
+\- Nmap
 
 
-\## Goals
+
+\## Repository Structure
 
 
 
-\- Learn enterprise IT administration
 
-\- Practice Active Directory
 
-\- Build secure networks
+CyberLab/
 
-\- Gain hands-on cybersecurity experience
+├── diagrams/
 
-\- Document everything I build
+├── kali-linux/
+
+├── windows-server/
+
+├── ubuntu-server/
+
+├── networking/
+
+├── pfsense/
+
+├── wazuh/
+
+├── docker/
+
+└── scripts/
 
 
 
